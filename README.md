@@ -8,9 +8,12 @@ This repository showcases skills, publisize projects and track my progress in Da
 ## Table of contents
 - [About](#about)
 - [Portfolio Projects](#portfolio-projects)
-
+	+ [A Retail Sales Analysis](#retail-sales-analysis)
 
 
 
 ## Portfolio Projects
-In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
+In this section I will list data analytics projects briefly describing the technology pile used to address cases.
+
+### A Retail Sales Analysis
+
