@@ -7,3 +7,4 @@ This repository showcases skills, publisize projects and track my progress in Da
 
 ## Table of contents
 - [About](#about)
+- [Portfolio Projects](#portfolio-projects)
