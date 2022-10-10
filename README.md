@@ -4,3 +4,6 @@ Hi, I'm Samuel! I have a technical background and hold a Master of Engineering (
 <br>
 This repository showcases skills, publisize projects and track my progress in Data Analytics / Data Science / Data Engineering and related topics.
 <br>
+
+## Table of contents
+- [About](#about)
