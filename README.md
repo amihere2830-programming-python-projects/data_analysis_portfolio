@@ -16,4 +16,5 @@ This repository showcases skills, publisize projects and track my progress in Da
 In this section I will list data analytics projects briefly describing the technology pile used to address cases.
 
 ### A Retail Sales Analysis
+**Code:** [`video_games_sales.ipynb`](https://github.com/nktnlx/data_analysis_portfolio/blob/main/video_games_sales.ipynb)  
 
