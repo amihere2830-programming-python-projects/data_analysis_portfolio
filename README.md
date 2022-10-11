@@ -16,6 +16,6 @@ This repository showcases skills, publisize projects and track my progress in Da
 In this section I will list data analytics projects briefly describing the technology pile used to address cases.
 
 ### A Retail Sales Analysis
-**Code:** [`video_games_sales.ipynb`](https://github.com/SamuelAmihere/data_analysis_portfolio/blob/main/retail_sales_analysis.ipynb)  
+**Code:** [`retail_sales_analysis.ipynb`](https://github.com/SamuelAmihere/data_analysis_portfolio/blob/main/retail_sales_analysis.ipynb)  
 **Description:** A multinational retail company decides to embark on a campaign called **'Operation  Increase Sales and Profit' (OISP)** which focuses on increasing the sales of the company and maximising profit. Before the management team of the company can take any actionable decision with regards to the campagn,they want to draw the necessary insight from their 'sitting data'. Hence, a four year daily sales records (**superstore data.csv**) is given for analysis to assist management in their decision making <br>
 **Skills:** data cleaning, data analysis, descriptive statistics, hypothesis testing, data visualization.
