@@ -1,6 +1,6 @@
 # Samuel Amihere - Data Analysis Portfolio
 ## About
-Hi, I'm Samuel! With a Master of Engineering (MEng) in Logistics Engineering from Beijing Jiaotong University and a Bachelor of Science (BSc) in Mathematics-with-Economics. My background spans technical fields and data processing. My experience includes over a year as an Inventory Analyst, an internship in machine learning, and completing a software engineering program with ALX Africa, focusing on backend development. I'm seeking opportunities in Software Engineering, Data Engineering, and Machine Learning to further my career development.
+Hi, I'm Samuel! With a Master of Engineering (MEng) in Logistics Engineering from Beijing Jiaotong University and a Bachelor of Science (BSc) in Mathematics-with-Economics. My background spans technical fields and data processing. My experience includes over a year as an Inventory Analyst, an internship in machine learning, and completing a software engineering program with ALX Africa, focusing on backend development. I'm seeking opportunities in Data Analytics/Data mining, Data Engineering, and Machine Learning to further my career development.
 <br>
 This repository showcases skills, publisize projects and track my progress in Data Analytics and Data Science related topics.
 <br>
